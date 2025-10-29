@@ -74,7 +74,7 @@ const Hero = () => (
     <section className="py-20 md:py-32 text-center">
         <div className="container mx-auto max-w-4xl px-4">
             <h1 className="text-4xl md:text-6xl font-bold tracking-tighter bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-purple-600">
-                Helping brands, Take Flight
+                Help brands, Take Flight
             </h1>
             <p className="mt-6 text-lg md:text-xl text-muted-foreground">
                 We are a creative and advisory partner in Nepal, building digital strategies that deliver results in local and international markets.
@@ -179,7 +179,7 @@ const Testimonial = () => (
             <blockquote className="text-2xl font-medium text-foreground italic">
                 "Udaan Creatives transformed our digital presence. Their strategic approach was a game-changer for our business and recruitment efforts."
             </blockquote>
-            <p className="mt-6 font-semibold text-lg">Udaan Creatives and Advisory</p>
+            <p className="mt-6 font-semibold text-lg">Udaan Creatives & Advisory</p>
         </div>
     </section>
 );
